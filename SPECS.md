@@ -1,0 +1,6 @@
+- Node JS
+- React
+- Vite
+- Tanstack Router
+- Tailwind CSS
+- Daisy UI
