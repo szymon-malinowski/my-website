@@ -4,3 +4,4 @@
 - Tanstack Router
 - Tailwind CSS
 - Daisy UI
+- Vercel
